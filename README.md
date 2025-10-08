@@ -8,6 +8,4 @@ I do not assume any responsibility for decisions or actions taken based on the s
 
 ![image](https://github.com/di3n0/NTTUChatBot/blob/main/0.png)
 
-```
-"C:\Program Files\WinHTTrack\httrack.exe" --list urls.txt -O "D:/Downloads/" -r2 -%e0 -c4 -A50000 -F "Mozilla/5.0"
-```
+
