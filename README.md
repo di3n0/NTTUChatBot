@@ -9,3 +9,5 @@ I do not assume any responsibility for decisions or actions taken based on the s
 
 ![image](https://github.com/di3n0/NTTUChatBot/blob/main/0.png)
 </br></br></br>
+
+Embedding: infgrad/stella-large-zh-v2
